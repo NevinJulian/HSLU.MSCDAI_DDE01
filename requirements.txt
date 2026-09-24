@@ -1,0 +1,12 @@
+# Notebooks
+ipykernel
+
+# Data and plots
+numpy
+pandas
+matplotlib>=3.5
+
+# Needed by the course Python files in coding_tasks/
+scipy
+statsmodels
+pyreadr
